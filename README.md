@@ -24,3 +24,6 @@ Müşteri ve firma bazlı satış dağılımı
 
 Temel satış KPI’larının tek ekranda takibi
 
+<img width="1133" height="647" alt="excel_portfolyo" src="https://github.com/user-attachments/assets/f654ea8f-0f07-4b31-b231-6ba74501bad9" />
+
+
